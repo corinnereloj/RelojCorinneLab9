@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937221335256",
+    "firebase_url": "https://relojcorinnelab9.firebaseio.com",
+    "project_id": "relojcorinnelab9",
+    "storage_bucket": "relojcorinnelab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937221335256:android:feb716cb565c0f7f",
+        "android_client_info": {
+          "package_name": "com.reloj.corinne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937221335256-j4m8579boh94hcmc9dtqrgo5ka7mrorv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reloj.corinne",
+            "certificate_hash": "fbc57429bafda9b952e61c78181914ecf816595c"
+          }
+        },
+        {
+          "client_id": "937221335256-uq354rt85bjcl99gqfre0c9ugumlcrst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALH7rVL1X3riiGILHgFvu8RCf6F_BwLbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937221335256-uq354rt85bjcl99gqfre0c9ugumlcrst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
